@@ -9,7 +9,7 @@
 
 
 
-![Netomartinsns GitHub stats](https://github-readme-stats.vercel.app/api?username=netomartinsns&show_icons=true&theme=radical)
+![netomartinsns GitHub stats](https://github-readme-stats.vercel.app/api?username=netomartinsns&show_icons=true&theme=radical)
 
 
 
@@ -33,4 +33,4 @@
 </div><br/>
 
 
-Apaixonado por tecnologia, educação e por mudar minha vida através da programação.
+## Apaixonado por tecnologia, educação e por mudar minha vida através da programação.
