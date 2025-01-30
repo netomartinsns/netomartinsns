@@ -7,7 +7,7 @@
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/manoel-martins-93554b205)
 
-[![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]
+[![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](071993875290)
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia a dia:
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="ubuntu 24.04" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
