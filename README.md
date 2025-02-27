@@ -10,10 +10,25 @@
 ![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)  071 98403-3747
 
 
+<br>
+ <br>
+ <p align="center">
 
 
 ![netomartinsns GitHub stats](https://github-readme-stats.vercel.app/api?username=netomartinsns&show_icons=true&theme=radical)
 
+ <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netomartinsns&layout=compact&hide=html&theme=dracula"/>
+
+  </P><br
+
+ ----------------
+
+
+# Situação atual: <img width="410px" align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+
+
+
+-----
 
 
 ## Tecnologias que eu uso no meu dia a dia:
@@ -37,4 +52,17 @@
 </div><br/>
 
 
-## Apaixonado por tecnologia, educação e por mudar minha vida através da programação.
+## Apaixonado por tecnologia, educação e por estar mudando minha vida através da programação.
+
+
+-----
+
+
+
+----------------
+
+<div align=center>
+
+![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
+  
+</div>
